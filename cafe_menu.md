@@ -7,5 +7,6 @@
 * italian Iced Coffee
 * Matcha bubble tea
 * ice tea
+* signature latte
 
 
